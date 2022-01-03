@@ -1,3 +1,3 @@
-### Morty-App
+## Morty-App
 
-# Built with VITE, REACT, GRAPHQL & TAILWINDCSS
+### Built with VITE, REACT, GRAPHQL & TAILWINDCSS
